@@ -1,0 +1,461 @@
+LEITOR (index.php): C:\laragon\www\php_bagisto\doc\extruture\index.php
+ALVO (relativo)   : C:\laragon\www\php_bagisto
+ALVO (realpath)   : C:\laragon\www\php_bagisto
+TYPE              : 1
+
+001 php_bagisto\.git [ignorado]
+002 php_bagisto\doc
+003 -> php_bagisto\doc\erro
+004 -> php_bagisto\doc\erro\Erro - Laravel API.pdf (.pdf)
+005 -> php_bagisto\doc\erro\Erro_002 - Laravel API.pdf (.pdf)
+006 -> php_bagisto\doc\extruture
+007 -> php_bagisto\doc\extruture\est.txt (.txt)
+008 -> php_bagisto\doc\extruture\index.php (.php)
+009 -> php_bagisto\doc\extruture\index.zip (.zip)
+010 -> php_bagisto\doc\Artz.txt (.txt)
+011 -> php_bagisto\doc\bagisto-2.3.zip (.zip)
+012 -> php_bagisto\doc\cmd (sem extensão)
+013 -> php_bagisto\doc\Dkr.txt (.txt)
+014 -> php_bagisto\doc\prpt.txt (.txt)
+015 php_bagisto\docker
+016 -> php_bagisto\docker\nginx
+017 -> php_bagisto\docker\nginx\default.conf (.conf)
+018 -> php_bagisto\docker\php
+019 -> php_bagisto\docker\php\Dockerfile (sem extensão)
+020 -> php_bagisto\docker\php\entrypoint.sh (.sh)
+021 php_bagisto\src
+022 -> php_bagisto\src\app
+023 -> php_bagisto\src\app\Http
+024 -> php_bagisto\src\app\Http\Controllers
+025 -> php_bagisto\src\app\Http\Controllers\Controller.php (.php)
+026 -> php_bagisto\src\app\Http\Middleware
+027 -> php_bagisto\src\app\Http\Middleware\EncryptCookies.php (.php)
+028 -> php_bagisto\src\app\Providers
+029 -> php_bagisto\src\app\Providers\AppServiceProvider.php (.php)
+030 -> php_bagisto\src\bootstrap
+031 -> php_bagisto\src\bootstrap\cache
+032 -> php_bagisto\src\bootstrap\cache\packages.php (.php)
+033 -> php_bagisto\src\bootstrap\cache\services.php (.php)
+034 -> php_bagisto\src\bootstrap\app.php (.php)
+035 -> php_bagisto\src\bootstrap\providers.php (.php)
+036 -> php_bagisto\src\config
+037 -> php_bagisto\src\config\app.php (.php)
+038 -> php_bagisto\src\config\auth.php (.php)
+039 -> php_bagisto\src\config\bagisto-vite.php (.php)
+040 -> php_bagisto\src\config\breadcrumbs.php (.php)
+041 -> php_bagisto\src\config\broadcasting.php (.php)
+042 -> php_bagisto\src\config\cache.php (.php)
+043 -> php_bagisto\src\config\concord.php (.php)
+044 -> php_bagisto\src\config\concord.php.bak (.bak)
+045 -> php_bagisto\src\config\cors.php (.php)
+046 -> php_bagisto\src\config\database.php (.php)
+047 -> php_bagisto\src\config\debugbar.php (.php)
+048 -> php_bagisto\src\config\dompdf.php (.php)
+049 -> php_bagisto\src\config\elasticsearch.php (.php)
+050 -> php_bagisto\src\config\excel.php (.php)
+051 -> php_bagisto\src\config\filesystems.php (.php)
+052 -> php_bagisto\src\config\hashing.php (.php)
+053 -> php_bagisto\src\config\image.php (.php)
+054 -> php_bagisto\src\config\imagecache.php (.php)
+055 -> php_bagisto\src\config\logging.php (.php)
+056 -> php_bagisto\src\config\mail.php (.php)
+057 -> php_bagisto\src\config\octane.php (.php)
+058 -> php_bagisto\src\config\openai.php (.php)
+059 -> php_bagisto\src\config\products.php (.php)
+060 -> php_bagisto\src\config\purify.php (.php)
+061 -> php_bagisto\src\config\queue.php (.php)
+062 -> php_bagisto\src\config\repository.php (.php)
+063 -> php_bagisto\src\config\responsecache.php (.php)
+064 -> php_bagisto\src\config\sanctum.php (.php)
+065 -> php_bagisto\src\config\services.php (.php)
+066 -> php_bagisto\src\config\session.php (.php)
+067 -> php_bagisto\src\config\sitemap.php (.php)
+068 -> php_bagisto\src\config\themes.php (.php)
+069 -> php_bagisto\src\config\tinker.php (.php)
+070 -> php_bagisto\src\config\translatable.php (.php)
+071 -> php_bagisto\src\config\view.php (.php)
+072 -> php_bagisto\src\config\visitor.php (.php)
+073 -> php_bagisto\src\database
+074 -> php_bagisto\src\database\migrations
+075 -> php_bagisto\src\database\migrations\2014_10_12_000000_create_users_table.php (.php)
+076 -> php_bagisto\src\database\migrations\2014_10_12_100000_create_password_resets_table.php (.php)
+077 -> php_bagisto\src\database\migrations\2019_12_14_000001_create_personal_access_tokens_table.php (.php)
+078 -> php_bagisto\src\database\migrations\2020_12_27_121950_create_jobs_table.php (.php)
+079 -> php_bagisto\src\database\migrations\2022_03_15_160510_create_failed_jobs_table.php (.php)
+080 -> php_bagisto\src\database\migrations\2022_10_04_144444_create_job_batches_table.php (.php)
+081 -> php_bagisto\src\database\migrations\2023_10_05_163612_create_visits_table.php (.php)
+082 -> php_bagisto\src\database\seeders
+083 -> php_bagisto\src\database\seeders\DatabaseSeeder.php (.php)
+084 -> php_bagisto\src\lang [ignorado]
+085 -> php_bagisto\src\Modules
+086 -> php_bagisto\src\packages
+087 -> php_bagisto\src\packages\Webkul [ignorado]
+088 -> php_bagisto\src\public
+089 -> php_bagisto\src\public\build [ignorado]
+090 -> php_bagisto\src\public\fonts
+091 -> php_bagisto\src\public\fonts\Hind-Bold.ttf (.ttf)
+092 -> php_bagisto\src\public\fonts\Hind-Regular.ttf (.ttf)
+093 -> php_bagisto\src\public\fonts\NotoSansBengali-Bold.ttf (.ttf)
+094 -> php_bagisto\src\public\fonts\NotoSansBengali-Regular.ttf (.ttf)
+095 -> php_bagisto\src\public\fonts\NotoSansJP-Bold.ttf (.ttf)
+096 -> php_bagisto\src\public\fonts\NotoSansJP-Regular.ttf (.ttf)
+097 -> php_bagisto\src\public\fonts\NotoSansSC-Bold.ttf (.ttf)
+098 -> php_bagisto\src\public\fonts\NotoSansSC-Regular.ttf (.ttf)
+099 -> php_bagisto\src\public\fonts\NotoSansSinhala-Bold.ttf (.ttf)
+100 -> php_bagisto\src\public\fonts\NotoSansSinhala-Regular.ttf (.ttf)
+101 -> php_bagisto\src\public\themes
+102 -> php_bagisto\src\public\themes\admin
+103 -> php_bagisto\src\public\themes\admin\default
+104 -> php_bagisto\src\public\themes\admin\default\build [ignorado]
+105 -> php_bagisto\src\public\themes\installer
+106 -> php_bagisto\src\public\themes\installer\default
+107 -> php_bagisto\src\public\themes\installer\default\build [ignorado]
+108 -> php_bagisto\src\public\themes\shop
+109 -> php_bagisto\src\public\themes\shop\default
+110 -> php_bagisto\src\public\themes\shop\default\build [ignorado]
+111 -> php_bagisto\src\public\.htaccess (.htaccess)
+112 -> php_bagisto\src\public\favicon.ico (.ico)
+113 -> php_bagisto\src\public\forge (sem extensão)
+114 -> php_bagisto\src\public\index.php (.php)
+115 -> php_bagisto\src\public\robots.txt (.txt)
+116 -> php_bagisto\src\public\storage (sem extensão)
+117 -> php_bagisto\src\resources
+118 -> php_bagisto\src\resources\css
+119 -> php_bagisto\src\resources\css\app.css (.css)
+120 -> php_bagisto\src\resources\js
+121 -> php_bagisto\src\resources\js\app.js (.js)
+122 -> php_bagisto\src\resources\js\bootstrap.js (.js)
+123 -> php_bagisto\src\resources\themes
+124 -> php_bagisto\src\resources\views
+125 -> php_bagisto\src\resources\views\errors
+126 -> php_bagisto\src\resources\views\errors\401.blade.php (.php)
+127 -> php_bagisto\src\resources\views\errors\402.blade.php (.php)
+128 -> php_bagisto\src\resources\views\errors\403.blade.php (.php)
+129 -> php_bagisto\src\resources\views\errors\404.blade.php (.php)
+130 -> php_bagisto\src\resources\views\errors\419.blade.php (.php)
+131 -> php_bagisto\src\resources\views\errors\429.blade.php (.php)
+132 -> php_bagisto\src\resources\views\errors\500.blade.php (.php)
+133 -> php_bagisto\src\resources\views\errors\503.blade.php (.php)
+134 -> php_bagisto\src\resources\views\errors\layout.blade.php (.php)
+135 -> php_bagisto\src\resources\views\errors\minimal.blade.php (.php)
+136 -> php_bagisto\src\resources\views\vendor [ignorado]
+137 -> php_bagisto\src\routes
+138 -> php_bagisto\src\routes\breadcrumbs.php (.php)
+139 -> php_bagisto\src\routes\console.php (.php)
+140 -> php_bagisto\src\routes\web.php (.php)
+141 -> php_bagisto\src\storage
+142 -> php_bagisto\src\storage\app
+143 -> php_bagisto\src\storage\app\private
+144 -> php_bagisto\src\storage\app\public
+145 -> php_bagisto\src\storage\app\public\data-transfer
+146 -> php_bagisto\src\storage\app\public\data-transfer\samples
+147 -> php_bagisto\src\storage\app\public\data-transfer\samples\csv
+148 -> php_bagisto\src\storage\app\public\data-transfer\samples\csv\customers.csv (.csv)
+149 -> php_bagisto\src\storage\app\public\data-transfer\samples\csv\products.csv (.csv)
+150 -> php_bagisto\src\storage\app\public\data-transfer\samples\csv\tax-rates.csv (.csv)
+151 -> php_bagisto\src\storage\app\public\data-transfer\samples\xls
+152 -> php_bagisto\src\storage\app\public\data-transfer\samples\xls\customers.xls (.xls)
+153 -> php_bagisto\src\storage\app\public\data-transfer\samples\xls\products.xls (.xls)
+154 -> php_bagisto\src\storage\app\public\data-transfer\samples\xls\tax-rates.xls (.xls)
+155 -> php_bagisto\src\storage\app\public\data-transfer\samples\xlsx
+156 -> php_bagisto\src\storage\app\public\data-transfer\samples\xlsx\customers.xlsx (.xlsx)
+157 -> php_bagisto\src\storage\app\public\data-transfer\samples\xlsx\products.xlsx (.xlsx)
+158 -> php_bagisto\src\storage\app\public\data-transfer\samples\xlsx\tax-rates.xlsx (.xlsx)
+159 -> php_bagisto\src\storage\app\public\data-transfer\samples\xml
+160 -> php_bagisto\src\storage\app\public\data-transfer\samples\xml\customers.xml (.xml)
+161 -> php_bagisto\src\storage\app\public\data-transfer\samples\xml\products.xml (.xml)
+162 -> php_bagisto\src\storage\app\public\data-transfer\samples\xml\tax-rates.xml (.xml)
+163 -> php_bagisto\src\storage\app\public\product
+164 -> php_bagisto\src\storage\app\public\product\1
+165 -> php_bagisto\src\storage\app\public\product\1\719O4KEz2eLEAkLT5SBkZVny6urS5HRQKwlKjOzM.webp (.webp)
+166 -> php_bagisto\src\storage\app\public\product\2
+167 -> php_bagisto\src\storage\app\public\product\2\yyXrdrXjANskX9vH2T3zvVZpX0G0njeRGYfzvPIr.webp (.webp)
+168 -> php_bagisto\src\storage\app\public\product\3
+169 -> php_bagisto\src\storage\app\public\product\3\OCPTDICek1LcXj5mBdbMJdCVUFfmIKzd8QhNztBf.webp (.webp)
+170 -> php_bagisto\src\storage\app\public\product\4
+171 -> php_bagisto\src\storage\app\public\product\4\t2VCZaiIeBM9UEKjdyY2JoZeDDITszV1jB3OOkLN.webp (.webp)
+172 -> php_bagisto\src\storage\app\public\product\5
+173 -> php_bagisto\src\storage\app\public\product\5\HjLl24zNtES92xeM4SIuxYLo8x8pBZYBDE0rgLSJ.webp (.webp)
+174 -> php_bagisto\src\storage\app\public\product\6
+175 -> php_bagisto\src\storage\app\public\product\6\1WJSgFrtvILhuji5RsWBFExqMyFvhPExTlLkuReZ.webp (.webp)
+176 -> php_bagisto\src\storage\app\public\product\7
+177 -> php_bagisto\src\storage\app\public\product\7\5s8K75FI79wrh4O8VyQ50b6jK2Jsj9QzDLbG7AR5.webp (.webp)
+178 -> php_bagisto\src\storage\app\public\product\7\A7hkr5S3PId6Fwp2mMj5FJOdSO60FruZAZOTecyI.webp (.webp)
+179 -> php_bagisto\src\storage\app\public\product\7\fY2P0cysIIboHpgmM4RwUVUBB35CSFpdfevpa2qP.webp (.webp)
+180 -> php_bagisto\src\storage\app\public\product\8
+181 -> php_bagisto\src\storage\app\public\product\8\G9HWJkPNLM2nRDXS0qeVofJKXqptiPnnHzZYWjOT.webp (.webp)
+182 -> php_bagisto\src\storage\app\public\product\8\TIZEZg133MPCDP4LRsK2qe7SoA8uTv0OdcCTODll.webp (.webp)
+183 -> php_bagisto\src\storage\app\public\product\9
+184 -> php_bagisto\src\storage\app\public\product\9\gnfkOJGVnpQmEfTXHqYt8Ok6bXi6CJglnRkBaRhh.webp (.webp)
+185 -> php_bagisto\src\storage\app\public\product\9\iIR3HdMfUpLnrlxE4zkRRZI0kyLf4knHFSEjJ0fk.webp (.webp)
+186 -> php_bagisto\src\storage\app\public\product\10
+187 -> php_bagisto\src\storage\app\public\product\10\5tOaFuBqXZWEY5U82F7p5Pv19P4BCHqNANEgFGzi.webp (.webp)
+188 -> php_bagisto\src\storage\app\public\product\10\JW2SVpSzTRwqUNfWqENrxDayVSG4x2PSWSe1vlqU.webp (.webp)
+189 -> php_bagisto\src\storage\app\public\product\11
+190 -> php_bagisto\src\storage\app\public\product\11\OkUQfZqwI7ZrzszDBVvGWr1haPxwHR3QPiig1n5k.webp (.webp)
+191 -> php_bagisto\src\storage\app\public\product\11\UTnfpZrWDszvfpGgq0RjmSjEgmLcymMoxp82WCIT.webp (.webp)
+192 -> php_bagisto\src\storage\app\public\theme
+193 -> php_bagisto\src\storage\app\public\theme\1
+194 -> php_bagisto\src\storage\app\public\theme\1\83Q62KRDUiEWsVuHaWSAXNmWBhuiGJDI8cotA6G8.webp (.webp)
+195 -> php_bagisto\src\storage\app\public\theme\1\K0VQjkxlycQTc5SYvNMveCKiI1FzntWhCs1irdSg.webp (.webp)
+196 -> php_bagisto\src\storage\app\public\theme\1\ovDg6F62tzXWlGhuiGUaBnzg7mdLJcu1KXJCa0QT.webp (.webp)
+197 -> php_bagisto\src\storage\app\public\theme\1\rRuAhyiXNywQ3DR4c5uuN9ehLxms55zkESTfsSEp.webp (.webp)
+198 -> php_bagisto\src\storage\app\public\theme\5
+199 -> php_bagisto\src\storage\app\public\theme\5\4bQWbpKizQCtcxAKLYsdK2KwsV1Nl900sRjyWVJw.webp (.webp)
+200 -> php_bagisto\src\storage\app\public\theme\5\8l9M5WWddzm5CQm31HRUon4i8uBILJmxbOOB5MQF.webp (.webp)
+201 -> php_bagisto\src\storage\app\public\theme\5\a7yNv06fwuEoOhJXNyzxJkuc6esEZVlpuVsK78SH.webp (.webp)
+202 -> php_bagisto\src\storage\app\public\theme\5\gdDMwEAG0P54bcHPSTElAeLkfVRvDD2WyF1gKwBi.webp (.webp)
+203 -> php_bagisto\src\storage\app\public\theme\5\kcb573u0EcK1i9ZGwsv6vWaFz7uohKud1oCfYJU2.webp (.webp)
+204 -> php_bagisto\src\storage\app\public\theme\5\QiL65NTPdAhpkbEOWvgLrhTjLn0VweFk6HGC37u3.webp (.webp)
+205 -> php_bagisto\src\storage\app\public\theme\6
+206 -> php_bagisto\src\storage\app\public\theme\6\N7Xp9EaoJOMCXqPrOPuC47ZcGiNids0KaxpLF6kr.webp (.webp)
+207 -> php_bagisto\src\storage\app\public\theme\8
+208 -> php_bagisto\src\storage\app\public\theme\8\74CeWU2zfcQ9q30ITuUw5xDV2wUcMT9S1kLzzIEk.webp (.webp)
+209 -> php_bagisto\src\storage\app\public\theme\8\fEm7pnb5Zn2LCEUmjgppN05uPPEwuTjyzdlDvtNA.webp (.webp)
+210 -> php_bagisto\src\storage\app\public\theme\10
+211 -> php_bagisto\src\storage\app\public\theme\10\CraYFsAG38Nps97g2ByfxWYHvKesyFhvLrJVhrEG.webp (.webp)
+212 -> php_bagisto\src\storage\debugbar
+213 -> php_bagisto\src\storage\debugbar\01KEYEMA5XZ0MFTARRQS64FMF0.json (.json)
+214 -> php_bagisto\src\storage\debugbar\01KEYEMKPSDVTSTMWCFSEXHF4E.json (.json)
+215 -> php_bagisto\src\storage\debugbar\01KEYEMKPY1YJBZ6MC1Y3FGP45.json (.json)
+216 -> php_bagisto\src\storage\debugbar\01KEYEW5TYVFETA6NS17JP5C59.json (.json)
+217 -> php_bagisto\src\storage\debugbar\01KEYEX27B6BK70WDNBC52HE4X.json (.json)
+218 -> php_bagisto\src\storage\debugbar\01KEYEXFBWCDWEDSV5YCF9ABGD.json (.json)
+219 -> php_bagisto\src\storage\debugbar\01KEYEXFBXZ7AKJ65NDCHVH43A.json (.json)
+220 -> php_bagisto\src\storage\debugbar\01KEYF0SCG92Y5PJBCAFA9Z1YZ.json (.json)
+221 -> php_bagisto\src\storage\debugbar\01KEYF3D27ZEV8MVZWB3VNCD2T.json (.json)
+222 -> php_bagisto\src\storage\debugbar\01KEYF8XST6XCAGK35YJFC9GM3.json (.json)
+223 -> php_bagisto\src\storage\debugbar\01KEYF8XSTPNRZKNKH8DP503P5.json (.json)
+224 -> php_bagisto\src\storage\debugbar\01KEYFEG1864SM3EEFKXS2Q5NW.json (.json)
+225 -> php_bagisto\src\storage\debugbar\01KEYFEHPV06D37PJ8ZY3VHX0Z.json (.json)
+226 -> php_bagisto\src\storage\debugbar\01KEYFH2XZR1QMNWW9M6B72SGM.json (.json)
+227 -> php_bagisto\src\storage\debugbar\01KEYFK3TAV8A83Z8YK5VZB599.json (.json)
+228 -> php_bagisto\src\storage\debugbar\01KEYFP9B5XF3MEEFZNPPAM8DW.json (.json)
+229 -> php_bagisto\src\storage\debugbar\01KEYFPMYB78C4R9RA0V04GKRS.json (.json)
+230 -> php_bagisto\src\storage\debugbar\01KEYFPMZAR6YS44G9KPMV5VAN.json (.json)
+231 -> php_bagisto\src\storage\debugbar\01KEYFPQ7D9PSQZQ3VR057EYNX.json (.json)
+232 -> php_bagisto\src\storage\debugbar\01KEYFPQ7DFG42G8MT3HZ69C12.json (.json)
+233 -> php_bagisto\src\storage\debugbar\01KEYFPZPW2WGXE2E33KEHW5J5.json (.json)
+234 -> php_bagisto\src\storage\debugbar\01KEYFPZQ1DRCZZW9TZNDSRQ7T.json (.json)
+235 -> php_bagisto\src\storage\debugbar\01KEYFQ6ESBBHPB07Y0VYYWR4Y.json (.json)
+236 -> php_bagisto\src\storage\debugbar\01KEYFQ7P8BTV7AWDGGKJCT0ST.json (.json)
+237 -> php_bagisto\src\storage\debugbar\01KEYFQB7NFG38PC0ZW8MGZR12.json (.json)
+238 -> php_bagisto\src\storage\debugbar\01KEYFQB7TRYQY44HQK668C9PJ.json (.json)
+239 -> php_bagisto\src\storage\debugbar\01KEYFQB8ZKZV8TQDEBQ6XMWXB.json (.json)
+240 -> php_bagisto\src\storage\debugbar\01KEYFQER5FYY9Y72SB0BPQKXD.json (.json)
+241 -> php_bagisto\src\storage\debugbar\01KEYFQER40JS753JYE36AFXB5.json (.json)
+242 -> php_bagisto\src\storage\debugbar\01KEYFQER491B8VBFNMA2VJVDN.json (.json)
+243 -> php_bagisto\src\storage\debugbar\01KEYFQET2P9PC7G3DEH72CE9B.json (.json)
+244 -> php_bagisto\src\storage\debugbar\01KEYFQHVRRQ55XZ2KNB5FJVFX.json (.json)
+245 -> php_bagisto\src\storage\debugbar\01KEYFQJSXDVAJ5SFPEFKGPQV6.json (.json)
+246 -> php_bagisto\src\storage\debugbar\01KEYFQWBFX2W5F73S2QXVB606.json (.json)
+247 -> php_bagisto\src\storage\debugbar\01KEYGAZDY7J4VDYD7Q431XB2A.json (.json)
+248 -> php_bagisto\src\storage\debugbar\01KEYGB3ZAHM2TRTDBRT86CWGV.json (.json)
+249 -> php_bagisto\src\storage\debugbar\01KEYGB3ZB7K4K18SSGER8G5EY.json (.json)
+250 -> php_bagisto\src\storage\debugbar\01KEYGB5W6VQ1MMNZS13T2QWJB.json (.json)
+251 -> php_bagisto\src\storage\debugbar\01KEYGB5WDXR87PPQRVCH0VMAP.json (.json)
+252 -> php_bagisto\src\storage\debugbar\01KEYGBA789GS6MX8HYN3PSBFR.json (.json)
+253 -> php_bagisto\src\storage\debugbar\01KEYGCWC0H7S4C0HMD2F1MKF0.json (.json)
+254 -> php_bagisto\src\storage\debugbar\01KEYGCWC0J9YP6PQVZYKQYVV1.json (.json)
+255 -> php_bagisto\src\storage\debugbar\01KEYGCWC06C2PFECBXJW0JXRD.json (.json)
+256 -> php_bagisto\src\storage\debugbar\01KEYGCWC4Y7KSDQ8VKZ38RK49.json (.json)
+257 -> php_bagisto\src\storage\debugbar\01KEYGCY50RQEC2995JE7TWAAE.json (.json)
+258 -> php_bagisto\src\storage\debugbar\01KEYGD8QJQKKRAN0144RP2F4C.json (.json)
+259 -> php_bagisto\src\storage\debugbar\01KEYGD19TB6NXDDH3SJ1G6HPG.json (.json)
+260 -> php_bagisto\src\storage\debugbar\01KEYGGGEZE6NWQAJP0SE8E0BV.json (.json)
+261 -> php_bagisto\src\storage\debugbar\01KEYME83697HWB6S35X11B8E9.json (.json)
+262 -> php_bagisto\src\storage\debugbar\01KEYMFRHC9WF66XY6GKS6MSYR.json (.json)
+263 -> php_bagisto\src\storage\debugbar\01KEYMG003AJVGE77B1ZYJB831.json (.json)
+264 -> php_bagisto\src\storage\debugbar\01KEYMHHSH14BK80G5NDW0G9V9.json (.json)
+265 -> php_bagisto\src\storage\debugbar\01KEYMHQ5GFG5NPHHRWXWWPSV4.json (.json)
+266 -> php_bagisto\src\storage\debugbar\01KEYMHQKGK9APKR00FAKWA5E9.json (.json)
+267 -> php_bagisto\src\storage\debugbar\01KEYMHQN2NHWD8DCK5JZ8DS7W.json (.json)
+268 -> php_bagisto\src\storage\debugbar\01KEYMHQSFY26XWJJDNXZ3RCH8.json (.json)
+269 -> php_bagisto\src\storage\debugbar\01KEYMHRA7YNX8YH8Q6QNPWW9D.json (.json)
+270 -> php_bagisto\src\storage\debugbar\01KEYMHVHV93JHPWN951VR5MW4.json (.json)
+271 -> php_bagisto\src\storage\debugbar\01KEYMHVJ3QJFKP14VB7BG5XJE.json (.json)
+272 -> php_bagisto\src\storage\debugbar\01KEYMHW28BX37V7S9MJN7WTGJ.json (.json)
+273 -> php_bagisto\src\storage\fonts
+274 -> php_bagisto\src\storage\framework
+275 -> php_bagisto\src\storage\framework\cache
+276 -> php_bagisto\src\storage\framework\cache\data
+277 -> php_bagisto\src\storage\framework\cache\data\00
+278 -> php_bagisto\src\storage\framework\cache\data\00\8c
+279 -> php_bagisto\src\storage\framework\cache\data\00\8c\008c41bf4dc5cc8de94f4179b684e70078a4cf9e (sem extensão)
+280 -> php_bagisto\src\storage\framework\cache\data\6b
+281 -> php_bagisto\src\storage\framework\cache\data\6b\70
+282 -> php_bagisto\src\storage\framework\cache\data\6b\70\6b7065930077b5fba822b54bc9cf46a691a2ad8a (sem extensão)
+283 -> php_bagisto\src\storage\framework\cache\data\9a
+284 -> php_bagisto\src\storage\framework\cache\data\9a\cd
+285 -> php_bagisto\src\storage\framework\cache\data\9a\cd\9acd66015b7f70dba930990d68fa8959c307749c (sem extensão)
+286 -> php_bagisto\src\storage\framework\cache\data\49
+287 -> php_bagisto\src\storage\framework\cache\data\49\5c
+288 -> php_bagisto\src\storage\framework\cache\data\49\5c\495cb9901e0db1997fa7dfeb994e7ea8560d38ed (sem extensão)
+289 -> php_bagisto\src\storage\framework\cache\data\68
+290 -> php_bagisto\src\storage\framework\cache\data\68\c6
+291 -> php_bagisto\src\storage\framework\cache\data\68\c6\68c6495a8a9cbdd7e25098fbd26e4433b313da03 (sem extensão)
+292 -> php_bagisto\src\storage\framework\cache\data\86
+293 -> php_bagisto\src\storage\framework\cache\data\86\a6
+294 -> php_bagisto\src\storage\framework\cache\data\86\a6\86a643f6d73bd775ccb0d40ca5b0353e25fe1d62 (sem extensão)
+295 -> php_bagisto\src\storage\framework\cache\data\91
+296 -> php_bagisto\src\storage\framework\cache\data\91\32
+297 -> php_bagisto\src\storage\framework\cache\data\91\32\9132781dd5ac717f4383c41d933ac3f31f23d46f (sem extensão)
+298 -> php_bagisto\src\storage\framework\cache\data\92
+299 -> php_bagisto\src\storage\framework\cache\data\92\fb
+300 -> php_bagisto\src\storage\framework\cache\data\92\fb\92fb1d98554d85b0e94d3544a49b2b55b64e8456 (sem extensão)
+301 -> php_bagisto\src\storage\framework\cache\data\96
+302 -> php_bagisto\src\storage\framework\cache\data\96\3d
+303 -> php_bagisto\src\storage\framework\cache\data\96\3d\963d0f87ba1cc339ee6bfa37d785e995badd0ad2 (sem extensão)
+304 -> php_bagisto\src\storage\framework\cache\data\a7
+305 -> php_bagisto\src\storage\framework\cache\data\a7\bf
+306 -> php_bagisto\src\storage\framework\cache\data\a7\bf\a7bfaca06e28775a8070a4dc41c83012692cb8e3 (sem extensão)
+307 -> php_bagisto\src\storage\framework\cache\data\ae
+308 -> php_bagisto\src\storage\framework\cache\data\ae\be
+309 -> php_bagisto\src\storage\framework\cache\data\ae\be\aebe098f7cb96a337a60a816fff1413d1da4c9f3 (sem extensão)
+310 -> php_bagisto\src\storage\framework\cache\data\c9
+311 -> php_bagisto\src\storage\framework\cache\data\c9\3c
+312 -> php_bagisto\src\storage\framework\cache\data\c9\3c\c93cc5361463872115506b8c1ced005684ca080f (sem extensão)
+313 -> php_bagisto\src\storage\framework\cache\data\d4
+314 -> php_bagisto\src\storage\framework\cache\data\d4\b6
+315 -> php_bagisto\src\storage\framework\cache\data\d4\b6\d4b621b69023630cfb0886fffb76815ab0325c0b (sem extensão)
+316 -> php_bagisto\src\storage\framework\cache\data\df
+317 -> php_bagisto\src\storage\framework\cache\data\df\54
+318 -> php_bagisto\src\storage\framework\cache\data\df\54\df54c11213cb4d5146633575cf4757ab1cb45efc (sem extensão)
+319 -> php_bagisto\src\storage\framework\cache\data\ef
+320 -> php_bagisto\src\storage\framework\cache\data\ef\70
+321 -> php_bagisto\src\storage\framework\cache\data\ef\70\ef707b6d7ad0ceb24bef5cc9761cdf4be42f93b9 (sem extensão)
+322 -> php_bagisto\src\storage\framework\cache\data\f4
+323 -> php_bagisto\src\storage\framework\cache\data\f4\08
+324 -> php_bagisto\src\storage\framework\cache\data\f4\08\f408318208360992bc3b0bc13ebdd0da807dda99 (sem extensão)
+325 -> php_bagisto\src\storage\framework\cache\repository-cache-keys.json (.json)
+326 -> php_bagisto\src\storage\framework\sessions
+327 -> php_bagisto\src\storage\framework\testing
+328 -> php_bagisto\src\storage\framework\views
+329 -> php_bagisto\src\storage\framework\views\0cfd5c01ef969d7241f5f5ebb969aa37.php (.php)
+330 -> php_bagisto\src\storage\framework\views\0de31d380549b5249e6f563ffb1ce090.php (.php)
+331 -> php_bagisto\src\storage\framework\views\0e90f37c27247ee727257c7ccff322b1.php (.php)
+332 -> php_bagisto\src\storage\framework\views\0eae4a35a575d6441d6b2f5143ffbd01.php (.php)
+333 -> php_bagisto\src\storage\framework\views\1a7a0bdef08442bd43641c62ae58a7e3.php (.php)
+334 -> php_bagisto\src\storage\framework\views\1cff78bebd1fcc6e12b53b29705d0bd5.php (.php)
+335 -> php_bagisto\src\storage\framework\views\1e517a4cae4da97d442c9fc81a395f91.php (.php)
+336 -> php_bagisto\src\storage\framework\views\2a8eb44017cdbc0b4ca9830c0f586440.php (.php)
+337 -> php_bagisto\src\storage\framework\views\2a981750fffdd18d8bdd94828fa212c8.php (.php)
+338 -> php_bagisto\src\storage\framework\views\2cd03ee7c516e63e596ad55371306b42.php (.php)
+339 -> php_bagisto\src\storage\framework\views\2d5ab02295ea023419d23f1a684eca7d.php (.php)
+340 -> php_bagisto\src\storage\framework\views\2d9265ee066553920a5e0c57bea2e71c.php (.php)
+341 -> php_bagisto\src\storage\framework\views\2e9864cc9242d3749bffc1deac4c4c32.php (.php)
+342 -> php_bagisto\src\storage\framework\views\4b7f7700781890f768b8eaeebf1afe5b.php (.php)
+343 -> php_bagisto\src\storage\framework\views\04e087ba4a990551dafe0307327ba5f3.php (.php)
+344 -> php_bagisto\src\storage\framework\views\05d4da25f0777d70a55beec61025ca2d.php (.php)
+345 -> php_bagisto\src\storage\framework\views\5f34a1f4668e2943a82a9496287b085f.php (.php)
+346 -> php_bagisto\src\storage\framework\views\5f6010919fec6104bbaa23b6428ba7d3.php (.php)
+347 -> php_bagisto\src\storage\framework\views\06a1b53e418cb3c065588a4558c7622d.php (.php)
+348 -> php_bagisto\src\storage\framework\views\6bfef0bba61e4594516ba3769b131a66.php (.php)
+349 -> php_bagisto\src\storage\framework\views\7ad67f5a9929dfcd4ae269b899548289.php (.php)
+350 -> php_bagisto\src\storage\framework\views\7e33b743a27113c4160f4c552f8b4db1.php (.php)
+351 -> php_bagisto\src\storage\framework\views\8afd1f0fb1e2b1b5ca7a545f063ac04b.php (.php)
+352 -> php_bagisto\src\storage\framework\views\8b77322ea40de4645844c2e3622c3810.php (.php)
+353 -> php_bagisto\src\storage\framework\views\8e21a33a58261aecf9e0c9f2d12fd2b0.php (.php)
+354 -> php_bagisto\src\storage\framework\views\9ac999bc5c76c67b50c17ed0e32d2ec5.php (.php)
+355 -> php_bagisto\src\storage\framework\views\09ee47cb6b2ead6fe59c09eda6d900b2.php (.php)
+356 -> php_bagisto\src\storage\framework\views\09f240be103cf50c875f7b5fe15a065d.php (.php)
+357 -> php_bagisto\src\storage\framework\views\17c90f8b3d18c7aa7d0bb5c1ea7aec16.php (.php)
+358 -> php_bagisto\src\storage\framework\views\21f2d7d22849de823dc19929c2179731.php (.php)
+359 -> php_bagisto\src\storage\framework\views\21f97eb7af5365aa29a0b2869bd61187.php (.php)
+360 -> php_bagisto\src\storage\framework\views\025f22a452d202ba5d6729625827d2af.php (.php)
+361 -> php_bagisto\src\storage\framework\views\29c66fa0c2e75d4aba7ffba204839bd0.php (.php)
+362 -> php_bagisto\src\storage\framework\views\45fca62a68cda535f24dc8d76d248981.php (.php)
+363 -> php_bagisto\src\storage\framework\views\48f97cbf1aad4afae8f0df627b86b669.php (.php)
+364 -> php_bagisto\src\storage\framework\views\74b99ab5cbf72e5f3d8e5c8d449a2bbb.php (.php)
+365 -> php_bagisto\src\storage\framework\views\81ca53e65bc3121b22596832a094abf3.php (.php)
+366 -> php_bagisto\src\storage\framework\views\89c92439077d366e0f36772e8ed65e9a.php (.php)
+367 -> php_bagisto\src\storage\framework\views\92bc1a54ae43aa96866cfed5af3c4c29.php (.php)
+368 -> php_bagisto\src\storage\framework\views\94dd7930c546728f6ac8eb08a90812a4.php (.php)
+369 -> php_bagisto\src\storage\framework\views\129ce74fb069c9f91da912101857452e.php (.php)
+370 -> php_bagisto\src\storage\framework\views\327f5bdfeda4c7ca4b4131f4f663a5ae.php (.php)
+371 -> php_bagisto\src\storage\framework\views\331c85d648f614f8414074907c45ed5d.php (.php)
+372 -> php_bagisto\src\storage\framework\views\413a4c00a65495303a6241001d2a413f.php (.php)
+373 -> php_bagisto\src\storage\framework\views\535d8e39025b6c86992f3b8451f1aa11.php (.php)
+374 -> php_bagisto\src\storage\framework\views\545dcbc1fed7b3e3eff673aa2c16e3d2.php (.php)
+375 -> php_bagisto\src\storage\framework\views\655aa25b0373752f005473e64fa4a674.php (.php)
+376 -> php_bagisto\src\storage\framework\views\738a3cb4ed66dcf867486ff6132b5714.php (.php)
+377 -> php_bagisto\src\storage\framework\views\743a322966700ea94e2448195525f49a.php (.php)
+378 -> php_bagisto\src\storage\framework\views\969c5f062641abdef641d3efabfec92c.php (.php)
+379 -> php_bagisto\src\storage\framework\views\6171b5a0f46a3a434bae6aa81bda9c10.php (.php)
+380 -> php_bagisto\src\storage\framework\views\6364ca8203cc6dcb9cee37e23d4ceb47.php (.php)
+381 -> php_bagisto\src\storage\framework\views\7317bd5f6623a0a54b02317a6e0a6154.php (.php)
+382 -> php_bagisto\src\storage\framework\views\8224e0b87d7b0daddcf86aed8395f03d.php (.php)
+383 -> php_bagisto\src\storage\framework\views\13908c918157ccfc7c05c05195757833.php (.php)
+384 -> php_bagisto\src\storage\framework\views\27768fcf67a32a3427087f6e9e8266db.php (.php)
+385 -> php_bagisto\src\storage\framework\views\347251b41edf8a84ba5859d7b8533b3b.php (.php)
+386 -> php_bagisto\src\storage\framework\views\860234e6a20dd8753db489c5a0218c42.php (.php)
+387 -> php_bagisto\src\storage\framework\views\931737c889bcb943f8fc79654d164835.php (.php)
+388 -> php_bagisto\src\storage\framework\views\1630296e0cd6cf8b3a04e1cd13e029a3.php (.php)
+389 -> php_bagisto\src\storage\framework\views\3592336aee71442562f4e8f35a85097d.php (.php)
+390 -> php_bagisto\src\storage\framework\views\368072756c233ac30f0cf310e266ea82.php (.php)
+391 -> php_bagisto\src\storage\framework\views\419551074a50fbe34ef86a0e07ca7190.php (.php)
+392 -> php_bagisto\src\storage\framework\views\458000197b6c2f6e00332aa9296dd017.php (.php)
+393 -> php_bagisto\src\storage\framework\views\a6e017772dac798c684f8ca4ea6a433e.php (.php)
+394 -> php_bagisto\src\storage\framework\views\a43dffac7f28722de66800e4b9a5f5b9.php (.php)
+395 -> php_bagisto\src\storage\framework\views\a434a0e556e43412bd64e2b327bf9dac.php (.php)
+396 -> php_bagisto\src\storage\framework\views\a120438d505ca9da755be63e962e88d7.php (.php)
+397 -> php_bagisto\src\storage\framework\views\a409957c32073e5572a809a8a11b2836.php (.php)
+398 -> php_bagisto\src\storage\framework\views\a3557068ed5b47425d76d1f6f3777346.php (.php)
+399 -> php_bagisto\src\storage\framework\views\ac95352bcdc7cb6b645348f21d9bb43e.php (.php)
+400 -> php_bagisto\src\storage\framework\views\ad83d727fd017237d16b7d94d46f3dfb.php (.php)
+401 -> php_bagisto\src\storage\framework\views\b7a12cf3c4888232d9e73f01aa35ecae.php (.php)
+402 -> php_bagisto\src\storage\framework\views\b7ea108b04d84d83bda92b27deb90ae3.php (.php)
+403 -> php_bagisto\src\storage\framework\views\b8fb512863518715144f10ddb2a9740f.php (.php)
+404 -> php_bagisto\src\storage\framework\views\bae129cef9e600352d1c88ca55b5c61c.php (.php)
+405 -> php_bagisto\src\storage\framework\views\bf039918744f972bf4ad8c964aee7799.php (.php)
+406 -> php_bagisto\src\storage\framework\views\c148edc0d9f5051a660353293579a57f.php (.php)
+407 -> php_bagisto\src\storage\framework\views\c557ea63a409dbc73afbb3d3024aedec.php (.php)
+408 -> php_bagisto\src\storage\framework\views\c5901773f5056a8b203c603d27f0543e.php (.php)
+409 -> php_bagisto\src\storage\framework\views\dc59e00da45cf912b63629587862a33c.php (.php)
+410 -> php_bagisto\src\storage\framework\views\dc86afd733b705a2f19979b8654f3028.php (.php)
+411 -> php_bagisto\src\storage\framework\views\e4368ea0a994b6b99635f3ff1a8cdb7f.php (.php)
+412 -> php_bagisto\src\storage\framework\views\e3362070ac0b3fc1f9535a7ca563df8d.php (.php)
+413 -> php_bagisto\src\storage\framework\views\eed660d7463d092a9ba39aefb56990d6.php (.php)
+414 -> php_bagisto\src\storage\framework\views\eee25f1fc47fd4ca936c5cf510854e57.php (.php)
+415 -> php_bagisto\src\storage\framework\views\f1af9757a2df4945e3d7063a7fab2b3c.php (.php)
+416 -> php_bagisto\src\storage\framework\views\f8f66a9d4a7aca03f3d6e288f32af124.php (.php)
+417 -> php_bagisto\src\storage\framework\views\f35c1ee9486679cd0ff0ddd907b0d481.php (.php)
+418 -> php_bagisto\src\storage\framework\views\f71aa56c1fc4887bfcfb24ef051a83ec.php (.php)
+419 -> php_bagisto\src\storage\framework\views\f5808a50ffb1c110f077d3c16cc384ca.php (.php)
+420 -> php_bagisto\src\storage\framework\views\f62171e9921c2501760caa2fa2c1ba98.php (.php)
+421 -> php_bagisto\src\storage\framework\views\f677753bb78f778157a6a75f645653b4.php (.php)
+422 -> php_bagisto\src\storage\framework\views\f338204446d604eac31efd6e0fc827f1.php (.php)
+423 -> php_bagisto\src\storage\framework\views\fea7b9e7c7417152968e8fa35c689a11.php (.php)
+424 -> php_bagisto\src\storage\logs
+425 -> php_bagisto\src\storage\logs\laravel.log (.log)
+426 -> php_bagisto\src\storage\installed (sem extensão)
+427 -> php_bagisto\src\stubs
+428 -> php_bagisto\src\stubs\export.model.stub (.stub)
+429 -> php_bagisto\src\stubs\export.plain.stub (.stub)
+430 -> php_bagisto\src\stubs\export.query-model.stub (.stub)
+431 -> php_bagisto\src\stubs\export.query.stub (.stub)
+432 -> php_bagisto\src\stubs\import.collection.stub (.stub)
+433 -> php_bagisto\src\stubs\import.model.stub (.stub)
+434 -> php_bagisto\src\tests
+435 -> php_bagisto\src\tests\Pest.php (.php)
+436 -> php_bagisto\src\tests\TestCase.php (.php)
+437 -> php_bagisto\src\vendor [ignorado]
+438 -> php_bagisto\src\.editorconfig (.editorconfig)
+439 -> php_bagisto\src\.gitattributes (.gitattributes)
+440 -> php_bagisto\src\artisan (sem extensão)
+441 -> php_bagisto\src\CODE_OF_CONDUCT.md (.md)
+442 -> php_bagisto\src\composer.json (.json)
+443 -> php_bagisto\src\composer.lock (.lock)
+444 -> php_bagisto\src\CONTRIBUTING.md (.md)
+445 -> php_bagisto\src\docker-compose.yml (.yml)
+446 -> php_bagisto\src\env_envia_ia.txt (.txt)
+447 -> php_bagisto\src\LICENSE (sem extensão)
+448 -> php_bagisto\src\package.json (.json)
+449 -> php_bagisto\src\phpunit.xml (.xml)
+450 -> php_bagisto\src\pint.json (.json)
+451 -> php_bagisto\src\README.md (.md)
+452 -> php_bagisto\src\SECURITY.md (.md)
+453 -> php_bagisto\src\UPGRADE.md (.md)
+454 -> php_bagisto\src\vite.config.js (.js)
+455 php_bagisto\docker-compose.yml (.yml)
+456 php_bagisto\README.md (.md)

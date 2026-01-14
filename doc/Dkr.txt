@@ -1,0 +1,60 @@
+clear
+cd C:\laragon\www\php_bagisto
+docker-compose down
+docker stop $(docker ps -aq)
+docker rm -f $(docker ps -aq)
+docker rmi -f $(docker images -q)
+docker volume rm devopsteste_db-data -f
+docker network prune -f
+docker volume prune -f
+docker system prune -af
+ 
+docker-compose down
+docker-compose build --no-cache
+docker-compose up --build -d
+ 
+clear
+cd C:\laragon\www\php_bagisto
+docker-compose down
+docker-compose build --no-cache
+docker system prune -af
+docker-compose up --build -d
+ 
+ 
+clear
+cd C:\laragon\www\php_bagisto
+docker-compose down
+docker-compose up -d --build
+ 
+clear
+cd C:\laragon\www\php_bagisto
+docker-compose down
+docker-compose build --no-cache
+docker-compose up --build -d
+ 
+
+# ----------------------------------------------------------------
+# Após a execução do Doker comandos para o Artisan dentro do docker
+# ----------------------------------------------------------------
+
+clear
+# Entrar no container PHP
+docker exec -it bagisto_php bash
+
+# Executar o instalador do Bagisto
+php artisan bagisto:install
+
+# OU se preferir fazer passo a passo:
+php artisan migrate
+php artisan db:seed
+php artisan vendor:publish --all
+php artisan storage:link
+ 
+# ----------------------------------------------------------------
+# SE DER ERRO DE PERMISSÃO
+# Caso apareça erro de permissão durante a instalação:
+# ----------------------------------------------------------------
+
+bashdocker exec -it bagisto_php bash
+chmod -R 775 storage bootstrap/cache
+chown -R www-data:www-data storage bootstrap/cache

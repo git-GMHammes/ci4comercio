@@ -1,0 +1,11 @@
+Vamos analisar os resultados que deram erro. 
+
+Não quero apenas a solução, mas quero que vc explique a causa do erro, quero saber onde esta o arquivo que esta com erro e o que fazer com Ele. 
+
+MAS COM UM PASSO a PASSO. Nada de dar 1000 passos ... Um passo de cada vez: 
+1) Identifica e explica o erro
+2) Identifica e explica cada arquivo envolvido
+3) Analisa onde esta o erro
+4) Apresenta uma solução de cada vez sem atropelar os testes
+
+TUDO isso com reinicio de Docker ou do CACHE do LARAVEL quando for necessário.

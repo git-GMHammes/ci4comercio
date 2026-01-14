@@ -1,0 +1,31 @@
+# PHP Composer e Artisan Version Check
+clear
+exit
+docker exec -it bagisto_php bash
+php -v
+composer --version
+php artisan --version
+ 
+# MySQL Version Check
+clear
+exit
+docker exec -it bagisto_mysql bash
+mysql --version
+ 
+# Redis Version Check
+clear
+exit
+docker exec -it bagisto_redis sh
+redis-cli --version
+ 
+# Adminer Version Check
+clear
+exit
+docker exec -it bagisto_adminer sh
+ 
+# Nginx Version Check
+clear
+exit
+docker exec -it bagisto_nginx sh
+nginx -v
+ 
