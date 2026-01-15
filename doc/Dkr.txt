@@ -1,5 +1,5 @@
 clear
-cd C:\laragon\www\php_bagisto
+cd C:\laragon\www\ci4comercio
 docker-compose down
 docker stop $(docker ps -aq)
 docker rm -f $(docker ps -aq)
@@ -14,7 +14,7 @@ docker-compose build --no-cache
 docker-compose up --build -d
  
 clear
-cd C:\laragon\www\php_bagisto
+cd C:\laragon\www\ci4comercio
 docker-compose down
 docker-compose build --no-cache
 docker system prune -af
@@ -22,12 +22,12 @@ docker-compose up --build -d
  
  
 clear
-cd C:\laragon\www\php_bagisto
+cd C:\laragon\www\ci4comercio
 docker-compose down
 docker-compose up -d --build
  
 clear
-cd C:\laragon\www\php_bagisto
+cd C:\laragon\www\ci4comercio
 docker-compose down
 docker-compose build --no-cache
 docker-compose up --build -d

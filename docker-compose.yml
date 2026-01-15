@@ -1,0 +1,100 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: ci4comercio_mysql
+    restart: unless-stopped
+    ports:
+      - "56101:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root_S3cur3P@ss_2024
+      MYSQL_DATABASE: ci4comercio_db
+      MYSQL_USER: ci4comercio_user
+      MYSQL_PASSWORD: ci4comercio_P@ssw0rd_2024
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - ci4comercio_network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-proot_S3cur3P@ss_2024"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+
+  redis:
+    image: redis:alpine
+    container_name: ci4comercio_redis
+    restart: unless-stopped
+    ports:
+      - "56103:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - ci4comercio_network
+    command: redis-server --appendonly yes
+
+  adminer:
+    image: adminer:latest
+    container_name: ci4comercio_adminer
+    restart: unless-stopped
+    ports:
+      - "56102:8080"
+    environment:
+      ADMINER_DEFAULT_SERVER: mysql
+    networks:
+      - ci4comercio_network
+    depends_on:
+      mysql:
+        condition: service_healthy
+
+  php:
+    build:
+      context: ./docker/php
+      dockerfile: Dockerfile
+    container_name: ci4comercio_php
+    restart: unless-stopped
+    working_dir: /var/www/html
+    volumes:
+      - ./src:/var/www/html
+    environment:
+      DB_CONNECTION: mysql
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_DATABASE: ci4comercio_db
+      DB_USERNAME: ci4comercio_user
+      DB_PASSWORD: ci4comercio_P@ssw0rd_2024
+      APP_NAME: "Laravel API"
+      APP_ENV: local
+      APP_DEBUG: "true"
+      APP_URL: http://localhost:56100
+    networks:
+      - ci4comercio_network
+    depends_on:
+      mysql:
+        condition: service_healthy
+      redis:
+        condition: service_started
+
+  nginx:
+    image: nginx:alpine
+    container_name: ci4comercio_nginx
+    restart: unless-stopped
+    ports:
+      - "56100:80"
+    volumes:
+      - ./src:/var/www/html
+      - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf
+    networks:
+      - ci4comercio_network
+    depends_on:
+      - php
+
+networks:
+  ci4comercio_network:
+    driver: bridge
+
+volumes:
+  mysql_data:
+    driver: local
+  redis_data:
+    driver: local
